@@ -1,0 +1,6 @@
+*sklib.py
+*.erc
+*.log
+*.net
+
+.python-version
